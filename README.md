@@ -1,6 +1,12 @@
 # Hi there, I'm Darshan Patel! 👋
 ### 📊 Data Analyst | Power BI Developer | Computer Engineering Student
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Data+Engineer+In+Making;Machine+Learning+Enthusiast;Data+Analytics+Specialist" alt="Typing SVG" />
+</p>
+
 I am a passionate **Data Analyst** based in **Surat, Gujarat**, dedicated to transforming raw data into actionable intelligence. With a strong foundation in **Computer Engineering (CGPA 9.15)**, I specialize in building dynamic dashboards, automating reporting processes, and enabling data-driven decisions [1, 2].
 
 ---
@@ -15,14 +21,53 @@ I am a passionate **Data Analyst** based in **Surat, Gujarat**, dedicated to tra
 
 ---
 
-## 🛠️ Technical Stack
+## 💼 Internship Experience
 
-| Category | Skills |
-|----------|--------|
-| **Data Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
-| **Tools & Dev** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **Specialized** | Tabular Editor, ALM Toolkit, DAX Formatter, Power Query [3] |
+### **Data Analytics Intern – Inkey IT Solutions Pvt. Ltd.**
+📅 *6 Months Internship*
+
+- Designed **interactive Power BI dashboards** for business and project insights  
+- Analyzed large datasets using **SQL & Python** to identify trends and KPIs  
+- Built **end-to-end reports** including data cleaning, modeling, DAX measures, and visualization  
+- Worked on **real-time business use cases** such as project tracking and performance monitoring  
+- Improved reporting efficiency and data accuracy through structured analytics workflows  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Languages**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+### **Data & BI Tools**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="40"/>
+</p>
+
+### **ML / AI**
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+</p>
+
+### **Tools & Platforms**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+</p>
 
 ---
 
