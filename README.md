@@ -1,58 +1,65 @@
-# <img src="https://raw.githubusercontent.com/Martin00101/Martin00101/master/handshake.gif" width="35px"> Hi, I'm Darshan Patel
+# Hi there, I'm Darshan Patel! 👋
+### 📊 Data Analyst | Power BI Developer | Computer Engineering Student
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Data+Engineer+In+Making;Machine+Learning+Enthusiast;Data+Analytics+Specialist" alt="Typing SVG" />
-</p>
-
-### 🎓 About Me
-A **Computer Engineering** graduate with a deep passion for turning raw data into actionable insights. I specialize in building end-to-end Machine Learning pipelines and interactive Data Analytics dashboards.
-
-* 🔭 **Currently:** Deep diving into **Data Engineering & Microsoft Fabric**
-* ⚡ **Fact:** I enjoy solving complex problems under pressure and staying ahead of tech trends.
-* 💬 **Ask me about:** Python, SQL, Power BI, and ML Model Deployment.
+I am a passionate **Data Analyst** based in **Surat, Gujarat**, dedicated to transforming raw data into actionable intelligence. With a strong foundation in **Computer Engineering (CGPA 9.15)**, I specialize in building dynamic dashboards, automating reporting processes, and enabling data-driven decisions [1, 2].
 
 ---
 
-### 💼 Professional Experience
+## 🚀 About Me
 
-> **Data Analytics / ML Intern** | *[Company Name]* | *[Duration, e.g., Jan 2024 – June 2024]*
-> - Developed automated **Power BI dashboards** reducing reporting time by 30%.
-> - Implemented **Predictive Models** using Scikit-learn to identify customer churn patterns.
-> - Optimized **SQL queries** for large-scale data extraction, improving processing speed.
-> - Collaborated with cross-functional teams to translate business requirements into technical solutions.
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **AI / Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
-| **Visualization & Tools** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+- 🔭 **Currently working on:** Advanced Power BI solutions and Dataverse integrations.
+- 💼 **Experience:** Data Analyst Intern at **Inkey IT Solutions**, where I boosted reporting efficiency by **40%** [2].
+- 🎓 **Education:** B.E. in Computer Engineering from **Gujarat Technological University** (2021–2025) [2].
+- 🤝 **Soft Skills:** Storytelling with Data, Project Management, and Problem-Solving [3].
+- 🌱 **Volunteering:** Active volunteer at BAPS Swaminarayan Sanstha [4].
 
 ---
 
-### 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshanpatel7440&theme=onugur&column=7" alt="trophies" /></a>
-</p>
+## 🛠️ Technical Stack
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanpatel7440&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=darshanpatel7440&show_icons=true&locale=en&theme=vision-friendly-dark" />
-</p>
+| Category | Skills |
+|----------|--------|
+| **Data Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| **Tools & Dev** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Specialized** | Tabular Editor, ALM Toolkit, DAX Formatter, Power Query [3] |
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/darshanpatel28/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pdarshan2803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/mr_darshan28_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darshanpatel7440&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
-</p>
+### 1️⃣ Project Management System (Live Project for AMRD Corp)
+*A centralized dashboard monitoring real-time project progress and resource utilization.*
+- **Impact:** Implemented as a live project, enhancing visibility for project heads and management [5].
+- **Tech:** Power BI, RLS, Power Query, DAX.
+- **Key Features:** Embedded in internal website, Row-Level Security (RLS) for role-based access, and Drill-through reporting [5].
+
+### 2️⃣ Textile Industry Dashboard
+*End-to-end solution tracking inventory, machine usage, and product quality.*
+- **Impact:** Increased visibility across departments by **35%** [6].
+- **Tech:** SQL, Power BI, Excel.
+- **Key Features:** Solved real-world reporting inefficiencies by cleaning raw data from SQL Server and Excel [6].
+
+### 3️⃣ Super Store Sales Analysis
+*Time-series forecasting and profitability analysis over a 4-year period.*
+- **Tech:** Power BI, SQL.
+- **Key Features:** Identified top-performing sub-categories and utilized chart-based visuals to show business health trends [7].
+
+---
+
+## 📈 GitHub Stats
+
+![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshanPatel7440&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanPatel7440&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdarshan2803@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
+
+</div>
