@@ -7,17 +7,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Data+Engineer+In+Making;Machine+Learning+Enthusiast;Data+Analytics+Specialist" alt="Typing SVG" />
 </p>
 
-I am a passionate **Data Analyst** based in **Surat, Gujarat**, dedicated to transforming raw data into actionable intelligence. With a strong foundation in **Computer Engineering (CGPA 9.15)**, I specialize in building dynamic dashboards, automating reporting processes, and enabling data-driven decisions [1, 2].
+I am a passionate **Data Analyst** based in **Surat, Gujarat**, dedicated to transforming raw data into actionable intelligence. With a strong foundation in **Computer Engineering (CGPA 9.15)**, I specialize in building dynamic dashboards, automating reporting processes, and enabling data-driven decisions.
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 **Currently working on:** Advanced Power BI solutions and Dataverse integrations.
-- 💼 **Experience:** Data Analyst Intern at **Inkey IT Solutions**, where I boosted reporting efficiency by **40%** [2].
-- 🎓 **Education:** B.E. in Computer Engineering from **Gujarat Technological University** (2021–2025) [2].
-- 🤝 **Soft Skills:** Storytelling with Data, Project Management, and Problem-Solving [3].
-- 🌱 **Volunteering:** Active volunteer at BAPS Swaminarayan Sanstha [4].
+- 💼 **Experience:** Data Analyst Intern at **Inkey IT Solutions**, where I boosted reporting efficiency by **40%**.
+- 🎓 **Education:** B.E. in Computer Engineering from **Gujarat Technological University** (2021–2025).
+- 🤝 **Soft Skills:** Storytelling with Data, Project Management, and Problem-Solving.
+- 🌱 **Volunteering:** Active volunteer at BAPS Swaminarayan Sanstha.
 
 ---
 
@@ -75,20 +75,20 @@ I am a passionate **Data Analyst** based in **Surat, Gujarat**, dedicated to tra
 
 ### 1️⃣ Project Management System (Live Project for AMRD Corp)
 *A centralized dashboard monitoring real-time project progress and resource utilization.*
-- **Impact:** Implemented as a live project, enhancing visibility for project heads and management [5].
+- **Impact:** Implemented as a live project, enhancing visibility for project heads and management.
 - **Tech:** Power BI, RLS, Power Query, DAX.
-- **Key Features:** Embedded in internal website, Row-Level Security (RLS) for role-based access, and Drill-through reporting [5].
+- **Key Features:** Embedded in internal website, Row-Level Security (RLS) for role-based access, and Drill-through reporting.
 
 ### 2️⃣ Textile Industry Dashboard
 *End-to-end solution tracking inventory, machine usage, and product quality.*
-- **Impact:** Increased visibility across departments by **35%** [6].
+- **Impact:** Increased visibility across departments by **35%**.
 - **Tech:** SQL, Power BI, Excel.
-- **Key Features:** Solved real-world reporting inefficiencies by cleaning raw data from SQL Server and Excel [6].
+- **Key Features:** Solved real-world reporting inefficiencies by cleaning raw data from SQL Server and Excel.
 
 ### 3️⃣ Super Store Sales Analysis
 *Time-series forecasting and profitability analysis over a 4-year period.*
 - **Tech:** Power BI, SQL.
-- **Key Features:** Identified top-performing sub-categories and utilized chart-based visuals to show business health trends [7].
+- **Key Features:** Identified top-performing sub-categories and utilized chart-based visuals to show business health trends.
 
 ---
 
@@ -103,8 +103,8 @@ I am a passionate **Data Analyst** based in **Surat, Gujarat**, dedicated to tra
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshanpatel28/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdarshan2803@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://darshanpatelportfolio2803.netlify.app/)
 
 </div>
