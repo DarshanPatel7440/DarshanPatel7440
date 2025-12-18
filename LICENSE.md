@@ -4,8 +4,6 @@ GitHub: https://github.com/DarshanPatel7440
 Original Author & Owner – Do not copy as-is
 -->
 
----
-
 # Hi there, I'm Darshan Patel! 👋
 ### 📊 Data Analyst | Power BI Developer | Computer Engineering Student
 
@@ -116,21 +114,3 @@ I am a passionate **Data Analyst** based in **Surat, Gujarat**, dedicated to tra
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://darshanpatelportfolio2803.netlify.app/)
 
 </div>
-
----
-
-## 🔐 Copyright & Usage Policy
-
-© 2025 **Darshan Patel**. All rights reserved.
-
-This GitHub profile README, including its **content, structure, layout, wording, project descriptions, and branding**, is the intellectual property of **Darshan Patel**.
-
-❌ You may **NOT** copy, reproduce, or redistribute this content **as-is**  
-❌ You may **NOT** claim this profile or any part of it as your own  
-❌ You may **NOT** use this README for commercial or public profiles  
-
-✅ You MAY take inspiration and create your **own original version**
-
-Any unauthorized use may be subject to intellectual property claims.
-
-📩 For permission or collaboration, contact: **pdarshan2803@gmail.com**
